@@ -1,2 +1,2 @@
 #!/bin/bash
-rm $(pwd)/welcome/to/ $(pwd)/welcome/to/school
+mkdir $(pwd)/welcome/to/ $(pwd)/welcome/to/school
