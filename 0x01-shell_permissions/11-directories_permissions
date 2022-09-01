@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod -R 744 $(pwd)
+sudo chmod -R 654 $(pwd)
